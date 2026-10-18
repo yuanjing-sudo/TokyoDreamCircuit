@@ -52,7 +52,7 @@ or pricing; check before relying on any of them.
 | Resource | What it is | Where |
 | --- | --- | --- |
 | **Quixel Megascans** | Thousands of scanned, tiled, battle-tested surfaces. Free for UE. This is where your asphalt, concrete, kerbs and puddles come from. | Fab (fab.com), formerly Quixel Bridge |
-| **Epic's City Sample** | The Matrix Awakens city: a full procedural Tokyo-like metropolis with Nanite buildings and a drivable simulation. The closest free thing to what you described. | Epic Games Launcher > Samples |
+| **Epic's City Sample** | The Matrix Awakens city: a full procedural Tokyo-like metropolis with Nanite buildings and a drivable simulation. The closest free thing to what you described. Also ships Epic's Houdini city-generation tooling — see `CITY_SAMPLE.md`. | Epic Games Launcher / Fab |
 | **Electric Dreams Environment** | Epic's procedural nature/road sample demonstrating PCG, Substrate and Lumen together. | Epic Games Launcher > Samples |
 | **Automotive Materials / Automotive Configurator** | Epic's car paint, glass, chrome and interior shaders, already Substrate-aware. | Epic Games Launcher > Samples |
 | **Poly Haven** | CC0 HDRIs and textures. Useful for background skies. | polyhaven.com |

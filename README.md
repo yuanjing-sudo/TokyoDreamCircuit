@@ -117,4 +117,5 @@ Config/
 ```
 
 See `REALISM.md` for the assets, plugins and settings that turn this into a
-photorealistic-looking game.
+photorealistic-looking game, and `CITY_SAMPLE.md` for the verified Epic City
+Sample + Houdini setup procedure (and the corrections to the download list).
